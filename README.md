@@ -1,59 +1,57 @@
 <div align="center">
 
-# 🎮 Roodkapje Game
+# 🟥🧺 ROODKAPJE GAME 🧺🟥
 
-<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Level-Intermediate-6a0dad?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Type-SoloProject-00d4ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JAVA-Game%20Project-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Greenfoot-Engine-darkgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Finished-black?style=for-the-badge"/>
 
 <br><br>
 
-Zelfstandig ontwikkeld spel waarin de speler obstakels moet ontwijken en het doel moet bereiken.  
-Volledig geprogrammeerd in Java met interactieve bewegingen en logica.
+🎮 Een interactieve Java game waarin je als Roodkapje door een wereld vol obstakels beweegt  
+🌲 Vermijd gevaren, zoek je route en bereik het einddoel  
 
 <br>
 
 <a href="https://github.com/TugcheSezr/RoodKaapje">
-  🌐 Bekijk het project op GitHub
+  🔗 <b>Open Project Repo</b>
 </a>
 
 </div>
 
 ---
 
-## 💡 Project Details
-- **Projectnaam:** Roodkapje Game  
-- **Doel:** Spel ontwikkelen met Java waarin gebruiker uitdagingen overwint  
-- **Technologie:** Java, Greenfoot  
-- **Startdatum:** April 2025  
-- **Auteur:** Tugche Sezer  
+## 🕹️ GAME OVERVIEW
+> 🌲 Je bevindt je in een gevaarlijk bos  
+> 🎯 Doel: bereik de bestemming zonder te verliezen  
 
 ---
 
-## 🚀 Features
-- Interactief spelbord en obstakels  
-- Volledige spel-logica in Java  
-- Animaties voor beweging en objecten  
-- Zelfstandig ontwikkeld project  
+## ⚙️ TECH CORE
+- Java OOP structuur  
+- Greenfoot game engine  
+- Object collision system  
+- Movement & world logic  
 
 ---
 
-## 📝 Gebruik
-1. Clone de repository  
-2. Open het project in Greenfoot of een Java IDE  
-3. Run `MyWorld.java` om het spel te starten  
-4. Gebruik pijltjestoetsen om te bewegen  
+## 🎮 CONTROLS
+⬆️⬇️⬅️➡️ → Bewegen  
+🎯 Doel → Bereik het einde van het level  
+💥 Obstakels → Vermijden  
 
 ---
 
-## 🌱 Leerpunten
-- Objectgeoriënteerd programmeren met Java  
-- Interactieve game design principes  
-- Logica en animatie implementatie  
-- Zelfstandig project management  
+## 🧠 WAT IK HEB GELEERD
+- Game logic bouwen in Java  
+- Werken met object interacties  
+- Structuur van een game world  
+- Debuggen van movement systems  
 
 ---
 
-<p align="center">
-💖 Code met passie • 🎮 Games bouwen • 🚀 Altijd leren
-</p>
+<div align="center">
+
+🎮 Retro Game Project • 🌲 Adventure Style • 🧠 Built with Java
+
+</div>
